@@ -109,7 +109,7 @@ practice_db=# \d students
 
 ## 4. Paper Diagram: `students` table
 
->Photo of the hand-drawn table ![students table](images/day02-students-table.jpg)`
+>Photo of the hand-drawn table ![students table](../images/day02-students-table.jpg)`
 
 Requirements I followed: at least 5 columns, at least 3 sample rows, data type noted for each column.
 
